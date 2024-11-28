@@ -99,7 +99,7 @@
         "growly": "^1.3.0",
         "is-wsl": "^2.2.0",
         "semver": "^7.6.0",
-        "shellwords": "^0.1.1",
+        "shellwords": "^1.0.1",
         "uuid": "^9.0.1",
         "which": "^2.0.2"
     },
